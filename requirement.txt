@@ -1,5 +1,5 @@
 opencv-python
-gradio
+gradio=5.17.1
 ultralytics
 numpy
 ffmpeg
