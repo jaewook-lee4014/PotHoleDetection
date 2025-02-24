@@ -1,4 +1,4 @@
-# 🚀 YOLO PotHole Detection (Real-Time Streaming)
+# YOLO PotHole Detection (Real-Time Streaming)
 
 ## 📌 Project Overview
 This project utilizes the **YOLO model** to detect objects in uploaded videos and visualize them in real-time.  
